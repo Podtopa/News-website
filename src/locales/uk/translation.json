@@ -1,0 +1,119 @@
+{
+  "header": {
+    "load-default": "Новини",
+    "input-placeholder": "Введіть запит"
+  },
+  "category_menu": {
+    "breaking-news": "екстрене",
+    "general": "загальне",
+    "business": "бізнес",
+    "entertainment": "розваги",
+    "health": "здоров'я",
+    "science": "наука",
+    "sports": "спорт",
+    "technology": "технології"
+  },
+  "currency-widget": {
+    "currency": "Валюта",
+    "price": "Ціна"
+  },
+  "weather-widget": {
+    "title": "Погода",
+    "subtitle": "7-денний прогноз",
+    "subtitle-hour": "Погодинний прогноз",
+    "return": "Назад",
+    "search": {
+      "placeholder": "Знайти місто",
+      "error": "Нема такого міста"
+    }
+  },
+  "date-widget": {
+    "title": "Дата"
+  },
+  "recommendation-widget": {
+    "title": "Рекомендації"
+  },
+  "footer": {
+    "resources": "Ресурси",
+    "contacts": "Контакти"
+  },
+  "messages": {
+    "error-message": "Ой, щось пішло не так...<1/>Повторіть спробу пізніше!",
+    "empty-message": "На ваш запит нічого не знайдено.",
+    "page-message": "Сторінка не знайдена."
+  },
+  "account": {
+    "menu": {
+      "account": "Акаунт",
+      "logout": "Вийти"
+    },
+    "login": {
+      "title": "Авторизація",
+      "button": "Увійти",
+      "message": "У вас ще нема аккаунту?"
+    },
+    "register": {
+      "title": "Реєстрація",
+      "button": "Реєстрація",
+      "message": "У вас вже є аккаунт?"
+    },
+    "user": {
+      "title": "Користувач",
+      "button": "Оновити"
+    },
+    "configurations": {
+      "titles": {
+        "configurations": "Конфігурація",
+        "categories": "Категорії",
+        "currencies": "Валюти",
+        "password": "Пароль",
+        "subscription": "Підписка"
+      }
+    },
+    "inputs": {
+      "name": {
+        "label": "Ім`я"
+      },
+      "surname": {
+        "label": "Прізвище"
+      },
+      "password": {
+        "label": "Пароль"
+      },
+      "confirm": {
+        "label": "Повторіть пароль"
+      },
+      "email": {
+        "label": "Пошта"
+      },
+      "category": {
+        "label": "Категорія"
+      },
+      "country": {
+        "label": "Країна"
+      },
+      "news-amount": {
+        "label": "К-ть новин"
+      },
+      "currency": {
+        "label": "Валюта"
+      },
+      "button": "Оновити",
+      "subscribe": "Підписатись",
+      "send": "Відправити",
+      "delete": "Видалити",
+      "pause": "Пауза",
+      "active": "Активувати",
+      "messages": {
+        "subscribe" : "Оформивши підписку, ви отримуватиме актуальні новини на вашу електронну пошту кожного дня о 12:00."
+      }
+    },
+    "errors": {
+      "required": "The field is required!",
+      "email": "The emails is not valid!",
+      "password": "Wrong format of password!",
+      "confirm_password": "Passwords are not equal",
+      "minlength": "Min length of field is 3!"
+    }
+  }
+}

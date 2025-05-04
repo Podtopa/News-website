@@ -1,0 +1,119 @@
+{
+  "header": {
+    "load-default": "News",
+    "input-placeholder": "Enter a request"
+  },
+  "category_menu": {
+    "breaking-news": "breaking",
+    "general": "general",
+    "business": "business",
+    "entertainment": "entertainment",
+    "health": "health",
+    "science": "science",
+    "sports": "sports",
+    "technology": "technology"
+  },
+  "currency-widget": {
+    "currency": "Currency",
+    "price": "Price"
+  },
+  "weather-widget": {
+    "title": "Weather",
+    "subtitle": "7-day forecast",
+    "subtitle-hour": "Hourly forecast",
+    "return": "Return",
+    "search": {
+      "placeholder": "Find City",
+      "error": "There is no such city"
+    }
+  },
+  "date-widget": {
+    "title": "Date"
+  },
+  "recommendation-widget": {
+    "title": "Recommendation"
+  },
+  "footer": {
+    "resources": "Resources",
+    "contacts": "Contacts"
+  },
+  "messages": {
+    "error-message": "Oops, something went wrong...<1/>Please try again later!",
+    "empty-message": "Nothing was found according to your request.",
+    "page-message": "Page not found."
+  },
+  "account": {
+    "menu": {
+      "account": "Account",
+      "logout": "Logout"
+    },
+    "login": {
+      "title": "Login",
+      "button": "Login",
+      "message": "Don't have an account yet?"
+    },
+    "register": {
+      "title": "Register",
+      "button": "Register",
+      "message": "Already have an account?"
+    },
+    "user": {
+      "title": "User",
+      "button": "Update"
+    },
+    "configurations": {
+      "titles": {
+        "configurations": "Configurations",
+        "categories": "Categories",
+        "currencies": "Currencies",
+        "password": "Password",
+        "subscription": "Subscription"
+      }
+    },
+    "inputs": {
+      "name": {
+        "label": "Name"
+      },
+      "surname": {
+        "label": "Surname"
+      },
+      "password": {
+        "label": "Password"
+      },
+      "confirm": {
+        "label": "Confirm password"
+      },
+      "email": {
+        "label": "Email"
+      },
+      "category": {
+        "label": "Category"
+      },
+      "country": {
+        "label": "Country"
+      },
+      "news-amount": {
+        "label": "News Amount"
+      },
+      "currency": {
+        "label": "Currency"
+      },
+      "button": "Update",
+      "subscribe": "Subscribe",
+      "send": "Send",
+      "delete": "Delete",
+      "pause": "Pause",
+      "active": "Active",
+      "messages": {
+        "subscribe" : "After subscribing, you will receive the latest news in your e-mail every day at 12 PM"
+      }
+    },
+    "errors": {
+      "required": "The field is required!",
+      "email": "The emails is not valid!",
+      "password": "Wrong format of password!",
+      "confirm_password": "Passwords are not equal",
+      "minlength": "Min length of field is 3!"
+    }
+  }
+}

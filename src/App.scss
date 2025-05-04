@@ -1,0 +1,21 @@
+
+@import "style/_settings.css";
+@import "style/_fonts.css";
+
+/*========Main style=========*/
+body {
+  font-family: 'Ubuntu', sans-serif;
+  &.lock {
+    overflow: hidden;
+  }
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  @import "style/components/header";
+  @import "style/components/main";
+  @import "style/components/footer";
+}

@@ -1,0 +1,85 @@
+/*========Footer=========*/
+.footer {
+  background: #305a83;
+}
+.footer .footer__container {
+  padding: 30px 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.footer .footer__container .footer__column {
+  padding: 0 30px;
+  border-right: 2px solid white;
+}
+.footer .footer__container .footer__logo {
+  display: flex;
+  font-size: 60px;
+  color: white;
+  text-align: center;
+}
+.footer .footer__container .footer__logo .logo-item {
+  align-self: center;
+  color: white;
+}
+.footer .footer__container .footer__resources {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  grid-gap: 20px;
+  font-size: 30px;
+}
+.footer .footer__container .footer__resources .resources__title {
+  white-space: nowrap;
+  line-height: 38px;
+  padding: 0 0 3px;
+  border-bottom: 2px solid white;
+  color: white;
+}
+.footer .footer__container .footer__resources .resources__item {
+  display: inline-block;
+  min-height: 46px;
+  max-width: 200px;
+}
+.footer .footer__container .footer__resources .resources__item img {
+  height: 40px;
+}
+.footer .footer__container .footer__contact {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: 30px;
+  gap: 20px;
+}
+.footer .footer__container .footer__contact .contact__title {
+  line-height: 38px;
+  padding: 0 0 3px;
+  border-bottom: 2px solid white;
+  color: white;
+}
+.footer .footer__container .footer__contact .contacts__container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-size: 35px;
+  width: 100%;
+  height: auto;
+  gap: 20px;
+}
+.footer .footer__container .footer__contact .contacts__container .contact-item {
+  color: white;
+  transition: transform 0.3s ease-out;
+}
+.footer .footer__container .footer__contact .contacts__container .contact-item:hover {
+  transform: scale(1.1) translate(0, 0);
+}
+.footer .footer__container .footer__contact .contacts__container .contact-item.email__item {
+  flex-grow: 1;
+  font-size: 20px;
+  width: 100%;
+}
+.footer .footer__container .footer__contact .contacts__container .contact-item.email__item:hover {
+  text-decoration: underline;
+  transform: scale(1) translate(0, 0);
+}
+
+/*# sourceMappingURL=footer.css.map */
